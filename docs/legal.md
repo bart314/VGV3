@@ -1,4 +1,27 @@
 
+## Formal issues
+
+This is a 5EC module, which means the total workload is **140 hours** (5 &times; 28). Given six sessions of two hours each, this leads to the following table:
+
+description | calculation | workload
+---|---|---
+7 sessions of 2.5 hours | 7 &times; 2.5 | 17.5
+7 times preperation | 7 &times; 1 | 7.0
+Total home study | - | 59.0
+
+This means that students are expected to work around six hours per week on their portfolio.
+
+As is described in [the OER (§5.2, login required)](https://hanzenl.sharepoint.com.mcas.ms/sites/bmnc_binf_ps_mijnhanze/Onderwijsportaal/Forms/AllItems.aspx?id=%2Fsites%2Fbmnc%5Fbinf%5Fps%5Fmijnhanze%2FOnderwijsportaal%2FWeten%20en%20Regelen%2FStart%20van%20studie%28jaar%29%2FOverzicht%20Onderwijs%20en%20Examenregeling%2FSABK%2FVormgeving%2F20241211%20OER%20Academie%20Minerva%20bachelor%20Vormgeving%202024%2D25%20def%2Epdf&parent=%2Fsites%2Fbmnc%5Fbinf%5Fps%5Fmijnhanze%2FOnderwijsportaal%2FWeten%20en%20Regelen%2FStart%20van%20studie%28jaar%29%2FOverzicht%20Onderwijs%20en%20Examenregeling%2FSABK%2FVormgeving), students are required to be present at least eighty percent of the time. This leads to a total of 5.6 sessions on which students must participate. This can be be either *floored* to 5 or *ceiled* to 6, depending on the participation of the students and such to the judgement of the teacher.
+
+- If possible, the student reports any absence beforehand (via [e-mail](mailto:b.barnard@pl.hanze.nl)).
+- In the case of being absent too many times, the student’s performance will be regarded as ‘not assessable’.
+- A 'not assessable' result is recorded by the teacher(s) on the assessment form with a 'GK’ (Gemiste Kans = missed opportunity); this will also be registered in Osiris.
+
+## Active participation
+
+Apart from the eighty-percent rule, you also need to be active during the class. This includes (but is not limited to) being *present* during the theoretical part (making notes etc.), being *active* during the individual elaborations (actually working etc.), and being *engaged* during the discussions (asking questions etc.). 
+
+We will take notes on the participation of each of the students and will try to make sure everybody gets the opportunity to make themself heard.
 
 ## Learning Outcomes
 
