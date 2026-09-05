@@ -1,0 +1,78 @@
+site_name: Time Based Design 3 – theory
+copyright: Academie Minerva 2026
+site_author: Bart Barnard
+site_description: 'Theoretical module 3 of Time Based Design'
+use_directory_urls: false
+
+theme:
+  name: 'material'
+  palette:
+    primary: 'blue grey'
+    accent: 'orange'
+  icon:
+    logo: 'material/library'
+  language: 'en'
+  include_sidebar: false
+extra_css:
+  - css/extra.css
+
+plugins:
+  - caption
+
+markdown_extensions:
+  - pymdownx.arithmatex:
+      generic: true
+  - markdown.extensions.codehilite:
+      guess_lang: False
+      linenums: True
+  - markdown.extensions.toc:
+      permalink: true
+      toc_depth: 2
+  - markdown.extensions.def_list
+  - markdown.extensions.admonition
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - markdown.extensions.footnotes
+  - pymdownx.arithmatex
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.critic
+  - pymdownx.details
+  - pymdownx.inlinehilite
+  - pymdownx.magiclink
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.superfences
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
+  - pymdownx.tabbed:
+      alternate_style: true 
+
+extra_javascript:
+  - js/imgs.js
+
+nav:
+  - Introduction: index.md
+  - Assessment and learning outcomes: legal.md
+  - 1. Creating a World; Telling a story:
+    - Introduction: week1/index.md
+    - Exercises: week1/exercises.md
+  - 2. Bodily relations to the world:
+    - Introduction: week2/index.md
+    - Exercises: week2/exercises.md
+  - 3. Mediated Relations to the World:
+    - Introduction: week3/index.md
+    - Exercises: week3/exercises.md
+  - 4. Reflection and Representation:
+    - Introduction: week4/index.md
+    - Exercises: week4/exercises.md
+  - 5. Image as Representation:
+    - Introduction: week5/index.md
+    - Exercises: week5/exercises.md
+  - 6. Materiality:
+    - Introduction: week6/index.md
+    - Exercises: week6/exercises.md
+  - Literature: literature.md

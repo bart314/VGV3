@@ -1,0 +1,3 @@
+Resonance
+Hypermediality
+Transparent immediacy
