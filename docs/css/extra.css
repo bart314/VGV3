@@ -1,20 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Rouge+Script&display=swap');
 body { color:#007575;}
-blockquote p {   
-    font-family: "Rouge Script", cursive;
-    font-size:1.5rem;
-    font-weight: 400;
-    font-style: normal;
-    margin-bottom: 0;
-}
 
 .md-typeset blockquote{ margin:0; }
-blockquote + p { 
-    margin-top:0;
-    font-style:italic;
-    padding-left:2vw;
-    color:lightgray;
-}
 
 .md-typeset table:not([class]) { font-size:0.8rem; }
 

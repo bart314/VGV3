@@ -5,11 +5,12 @@ This is a 5EC module, which means the total workload is **140 hours** (5 &times;
 
 description | calculation | workload
 ---|---|---
-7 sessions of 2.5 hours | 7 &times; 2.5 | 17.5
-7 times preperation | 7 &times; 1 | 7.0
-Total home study | - | 59.0
-
-This means that students are expected to work around six hours per week on their portfolio.
+6 sessions of 2 hours | 6 &times; 2 | 12
+6 preperations | 6 &times 1 | 6
+6 practical exercises | 6 &times; 8 | 48
+6 reading exercises | 6 &times; 4 | 24
+working on portfolio | 1 &times; 24 | 24
+unforeseen | - | 26
 
 As is described in [the OER (§5.2, login required)](https://hanzenl.sharepoint.com.mcas.ms/sites/bmnc_binf_ps_mijnhanze/Onderwijsportaal/Forms/AllItems.aspx?id=%2Fsites%2Fbmnc%5Fbinf%5Fps%5Fmijnhanze%2FOnderwijsportaal%2FWeten%20en%20Regelen%2FStart%20van%20studie%28jaar%29%2FOverzicht%20Onderwijs%20en%20Examenregeling%2FSABK%2FVormgeving%2F20241211%20OER%20Academie%20Minerva%20bachelor%20Vormgeving%202024%2D25%20def%2Epdf&parent=%2Fsites%2Fbmnc%5Fbinf%5Fps%5Fmijnhanze%2FOnderwijsportaal%2FWeten%20en%20Regelen%2FStart%20van%20studie%28jaar%29%2FOverzicht%20Onderwijs%20en%20Examenregeling%2FSABK%2FVormgeving), students are required to be present at least eighty percent of the time. This leads to a total of 5.6 sessions on which students must participate. This can be be either *floored* to 5 or *ceiled* to 6, depending on the participation of the students and such to the judgement of the teacher.
 
