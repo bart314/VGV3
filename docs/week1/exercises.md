@@ -10,7 +10,7 @@ During the course of this week, keep an open eye to object, installations, or sp
 
 - What is the story the object, installation, or place is trying to *convey*?
 
-- In what way is this story told, and what is the role of time, space, and design in this particular case?
+- In what way is this story told, and what role do particular *objects* (specifically *artefacts*) play in telling this story?
 
 - How do you relate to this story?
 
