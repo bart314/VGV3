@@ -13,7 +13,7 @@ Come up with a way to convey the experiences you had. You can do this in writing
 
 ## Creative exercise
 
-Come up with an installation that plays with the bodily relations with the world, an installation that makes the everyday background explicit, or the other way around – e.g. an installation that forces people to walk on their hands, one in which gravity is different that in every day, or one that rotates the normal view. Use the conceptual framework that was discussed during the plenary part of this session.
+Come up with an installation that plays with the bodily relations with the world and the way that that relation is mediated by *machines* (or *technology* in general). You could e.g. make an installation in which the usual function of a technological artefact is changed or reversed, or an app that functions in a complete different way than usual. Use the conceptual framework that was discussed during the plenary part of this session.
 
 Think about the exact venue that you would like to use, and the public you would like to reach – and be sure to accommodate your installation accordingly.
 
