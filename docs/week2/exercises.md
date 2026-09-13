@@ -35,6 +35,8 @@ The processed text will be part of your portfolio.
 
 **Suggested reading**
 
+- Godfrey-Smith, Peter, "Earth Enlived", in *Living on Earth. Life, Consciousness and the Making of the Natural World*, (William Collins 2024), pp.17-50.
+
 - Kozel, Susan, "Telematics: Extending Bodies", in *Closer* (MIT Press, 2007), pp.84-91.
 
 - Rosa, Hartmut, "Bodily relationships to the world" in *Resonance* (Polity Press, 2019), pp. 47-82.
