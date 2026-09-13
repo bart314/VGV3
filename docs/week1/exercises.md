@@ -30,14 +30,13 @@ Read the following text closely and critically (you can find both a physical and
 
 - Robin Wall Kimmerer, "Skywoman Falling", in *Braiding Sweetgrass* (Milweed Editors, 2013), pp.3-10.
 
-
 Come up with one or two questions about this text that you want to discuss in class.
 
 The processed text will be part of your portfolio. 
 
 **suggested reading**
 
-- Bolter, Jay David and Richard Grusin, "The double logic of remediation" in *Remediotion; understanding new media* (MIT Press, 1997), pp.3-15.
+- Bolter, Jay David and Richard Grusin, "The double logic of remediation" in *Remediation; understanding new media* (MIT Press, 1997), pp.3-15.
 
 - Groenteboer, Hanneke, "Tracing the *Denkbild*" in *The Pensive Image; Art as a Form of Thinking" (Chicago UP, 2020), pp.46-71.
 
