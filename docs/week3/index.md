@@ -29,4 +29,5 @@ Anna Ridler | Mosaic Virus (2018) | [anneridler.com](https://annaridler.com/work
 Dornith Doherty | Archiving Eden (2019) | [Youtube (lecture)](https://www.youtube.com/watch?v=-sdscmqcZd0)
 susanna kite | Everything I Say Is True (2017) | [Youtube](https://www.youtube.com/watch?v=a6J_m18LjZs)
 Christa Sommerer and Laurent Mignonneau | Pico Scan (2000)) | [Youtube](https://www.youtube.com/watch?v=tQqVV5UBC7o&t=7s)
+Bart Barnard | The Onlooker | [mandarin.nl](https://mandarin.nl/onlooker/)
 
